@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Erik Salamanca> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,51 +8,42 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ej377@cornell.edu](mailto:ejs377@cornell.edu) | | | **Phone:** +607 280 0411
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring pre-medical student with a strong foundation in engineering, biology, and chemisty. Passionate about helping people and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.7/4.0 | Graduation: Month, Year
 
-- **[High School Name]**  
+- **Ithaca High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2023]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, Autodesk Inventor  
+- **Programming:** Python, MATLAB, Java  
+- **Tools:** 3D Printing, Laser Cutting, Basic Machining  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Tug N Tick**:  
+  *Our goal was to design a dog leash that would not tug the user arm if the dog ran off and fully extened the leash. It would also have a built in tick remover for easy access when out on walks.*  
+  - Presented prototype to a panel of investor and got $250 dollars worth of funding
+  - Fully designed a working prototype
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Skeezy**:  
+  *Our goal was to design a attachment to a backpack that would allow hands free carrying of skis.*  
+  - Designed a working prototype  
 
 ---
 
@@ -62,9 +53,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 ---
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+#### Extracurricular Activities 
+- Volunteer for Cayuga Medical Center 
 
 ---
 
