@@ -20,7 +20,7 @@ Aspiring pre-medical student with a strong foundation in engineering, biology, a
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.7/4.0 | Graduation: Month, Year
+  GPA: 3.7/4.0 | Graduation: [May, 2027]
 
 - **Ithaca High School**  
   *High School Diploma*  
