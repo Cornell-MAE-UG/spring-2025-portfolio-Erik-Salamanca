@@ -45,6 +45,11 @@ Aspiring pre-medical student with a strong foundation in engineering, biology, a
   *Our goal was to design a attachment to a backpack that would allow hands free carrying of skis.*  
   - Designed a working prototype  
 
+- **Code Red Robotics**:
+  *A FIRST Robotics team that competed to build a robot in 6 weeks.*
+  - Was nominated for deans list by my team
+  - Team placed in the semifinals in multiple years 
+
 ---
 
 #### Achievements & Certifications
